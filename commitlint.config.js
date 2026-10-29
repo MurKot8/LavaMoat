@@ -7,5 +7,4 @@ module.exports = {
     'header-max-length': [0],
     'subject-case': [0],
     'subject-full-stop': [0],
-  },
-}
+  
